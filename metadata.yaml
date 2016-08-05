@@ -1,0 +1,33 @@
+_repo: Crowded-Out--and-Other-Sketches_8652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harrison, S. Frances (Susie Frances)
+    aliases:
+    - Seranus
+    - Harrison, S. F. (Susie Frances)
+    - Harrison, Susie Frances
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '32228'
+    url: http://www.gutenberg.org/2009/agents/32228
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Canadian'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The story of Monsieur, Madame, and the pea-green parrot -- The Bishop
+  Of Saskabasquia -- "As it was in the beginning" -- A Christmas sketch -- The idyl
+  of the island -- The story of Delle Josephine Boulanger -- The story of Etienne
+  Chezy D'Alencourt -- "Descendez a l'ombre, ma jolie blonde" -- The prisoner Dubois
+  -- How the Mr. Foxleys came, stayed, and never went away -- The gilded hammock.
+title: Crowded Out! and Other Sketches
+url: http://www.gutenberg.org/ebooks/8652
